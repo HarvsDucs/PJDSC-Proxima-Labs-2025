@@ -16,3 +16,9 @@ Built on daily Open-Meteo inputs and historical observations for Metro Manila, t
 ### KEYWORDS
 
 Adaptive Model Selection (AMS), Contextual Bandits, Heat Index Forecasting, Metro Manila, Philippines, Extreme Heat Events, Climate Resilience, Decision Support Systems, Differential Reward, Benchmark Model (Best-in-Class), Regret Minimization, Time-Series Forecasting, Numerical Weather Prediction (NWP), LinUCB, Contextual Thompson Sampling (CTS), Threshold-Aware Penalties (42 °C, 46 °C), Open-Meteo Data, Model Zoo, Education Policy (Class Suspension), Public Health Preparedness, Project Heat Resilience PH
+
+
+### Flask App Repository
+
+Github link for the flask application:
+https://github.com/jkcte/Reinfocement-Learning-for-Heat-Forecast--RLHF-?fbclid=IwY2xjawNnHTVleHRuA2FlbQIxMABicmlkETFMaXVCMkZEOVRYdUhVV3B4AR4c-weJKKq6zTtOs7uXZazmvB1iYCJIYbvHvbZzeHV9SZH8V_ZeEVfIfxSErg_aem_NPt6HrNBsbiMb8l8PMQu6g
