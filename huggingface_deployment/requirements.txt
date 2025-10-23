@@ -1,0 +1,10 @@
+# requirements.txt
+gymnasium
+pandas
+numpy
+scikit-learn
+stable-baselines3[extra]
+huggingface-sb3
+huggingface-hub
+gradio
+joblib
